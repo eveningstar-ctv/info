@@ -1,0 +1,4 @@
+otpauth://totp/Cwallet:?secret=NN5F7R65D3NSLVUW3VRMDKWRV4&issuer=Cwallet
+otpauth://totp/MEXC:?secret=3GJD75VTNUTNCMX6&issuer=MEXC
+otpauth://totp/GitHub:eveningstar-ctv?secret=OVTRIJYLZWTQUY7P&issuer=GitHub
+otpauth://totp/GitHub:genshindev325?secret=3WFDPTP42GFQDTDT&issuer=GitHub
