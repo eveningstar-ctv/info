@@ -1,0 +1,50 @@
+--- AI Models from Ollama library ---
+1. deepseek-coder-v2
+deepseek-coder-v2.part1.rar(4.83GB): https://pixeldrain.com/u/niJ4dFxE
+deepseek-coder-v2.part2.rar(3.71GB): https://pixeldrain.com/u/wbGnWsnh
+
+2. deepseek-coder:1.3b
+deepseek-coder-1.3b.zip(740MB): https://pixeldrain.com/u/squ3Gqdx
+
+3. qwen2.5-coder:1.5b
+qwen2.5-coder-1.5b.zip(964MB): https://pixeldrain.com/u/pHosaZNE
+
+4. codellama:34b
+models.part1.rar(4.83GB) : https://pixeldrain.com/u/MjMuuJKG
+models.part2.rar(4.83GB) : https://pixeldrain.com/u/WgoSEsZM
+models.part3.rar(4.83GB) : https://pixeldrain.com/u/FtbpzaZ9
+models.part4.rar(3.79GB) : https://pixeldrain.com/u/xtV6bETm
+
+5. qwen2.5-coder:32b
+qwen2.5-coder-32b.part1.rar(4.83GB): https://pixeldrain.com/u/T47pD7S2
+qwen2.5-coder-32b.part2.rar(4.83GB): https://pixeldrain.com/u/MURN9Shv
+qwen2.5-coder-32b.part3.rar(4.83GB): https://pixeldrain.com/u/ecrqzuSr
+qwen2.5-coder-32b.part4.rar(4.79GB): https://pixeldrain.com/u/AZzcAN8x
+
+6. qwen3-coder:30b
+qwen3-coder-30b.part1.rar(4.83GB): https://pixeldrain.com/u/4RMzrTvd
+qwen3-coder-30b.part2.rar(4.83GB): https://pixeldrain.com/u/a9zQcGoa
+qwen3-coder-30b.part3.rar(4.83GB): https://pixeldrain.com/u/WZGqP4ds
+qwen3-coder-30b.part4.rar(3.74GB): https://pixeldrain.com/u/n8VCzXQs
+
+7. nomic-embed-text
+nomic-embed-text.zip(252MB): https://pixeldrain.com/u/DXYdYCJN
+
+8. codestral:22b
+codestra-22b.part1.rar(4.83GB): https://pixeldrain.com/u/XcnhY6ZD
+codestra-22b.part2.rar(4.83GB): https://pixeldrain.com/u/ajWnx9H4
+codestra-22b.part3.rar(2.33GB): https://pixeldrain.com/u/M7ibi32Q
+
+--- Visual Studio Code ---
+vscode-1.103.2-offline-bundle.zip(2.57GB): https://pixeldrain.com/u/HeEXuAkn
+vscode-ai-extensions.zip(182MB): https://pixeldrain.com/u/phn3zHaJ
+visual-studio-build-tools-2022-preloaded(1.81GB): https://pixeldrain.com/u/PN6mtqH6
+
+--- Python Packages for AI ---
+torch-2.5.1-offline-bundle.zip(2.51GB): https://pixeldrain.com/u/obVDbz7R
+python-model-loader.zip(300MB): https://pixeldrain.com/u/jUxbCQoN
+
+--- AI Server ---
+OllamaSetup.exe(1.18GB): https://pixeldrain.com/u/iXmyRAUd
+ollama-linux-amd64.tgz(1.91GB): https://pixeldrain.com/u/d6dEgrWd
+
