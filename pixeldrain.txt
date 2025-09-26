@@ -1,7 +1,6 @@
 --- AI Models from Ollama library ---
-1. deepseek-coder-v2
-deepseek-coder-v2.part1.rar(4.83GB): https://pixeldrain.com/u/niJ4dFxE
-deepseek-coder-v2.part2.rar(3.71GB): https://pixeldrain.com/u/wbGnWsnh
+1. codellama:7b
+codellama-7b.zip(3.64GB): https://pixeldrain.com/u/P3uzmvQZ
 
 2. deepseek-coder:1.3b
 deepseek-coder-1.3b.zip(740MB): https://pixeldrain.com/u/squ3Gqdx
@@ -21,19 +20,29 @@ qwen2.5-coder-32b.part2.rar(4.83GB): https://pixeldrain.com/u/MURN9Shv
 qwen2.5-coder-32b.part3.rar(4.83GB): https://pixeldrain.com/u/ecrqzuSr
 qwen2.5-coder-32b.part4.rar(4.79GB): https://pixeldrain.com/u/AZzcAN8x
 
-6. qwen3-coder:30b
+6. deepseek-coder:33b
+deepseek-coder-33b.part1.rar(4.83GB): https://pixeldrain.com/u/Y4vg2pQF
+deepseek-coder-33b.part2.rar(4.83GB): https://pixeldrain.com/u/YKwZvPSy
+deepseek-coder-33b.part3.rar(4.83GB): https://pixeldrain.com/u/99P8hcVC
+deepseek-coder-33b.part4.rar(3.81GB): https://pixeldrain.com/u/LujiDSbz
+
+7. qwen3-coder:30b
 qwen3-coder-30b.part1.rar(4.83GB): https://pixeldrain.com/u/4RMzrTvd
 qwen3-coder-30b.part2.rar(4.83GB): https://pixeldrain.com/u/a9zQcGoa
 qwen3-coder-30b.part3.rar(4.83GB): https://pixeldrain.com/u/WZGqP4ds
 qwen3-coder-30b.part4.rar(3.74GB): https://pixeldrain.com/u/n8VCzXQs
 
-7. nomic-embed-text
+8. nomic-embed-text
 nomic-embed-text.zip(252MB): https://pixeldrain.com/u/DXYdYCJN
 
-8. codestral:22b
+9. codestral:22b
 codestra-22b.part1.rar(4.83GB): https://pixeldrain.com/u/XcnhY6ZD
 codestra-22b.part2.rar(4.83GB): https://pixeldrain.com/u/ajWnx9H4
 codestra-22b.part3.rar(2.33GB): https://pixeldrain.com/u/M7ibi32Q
+
+10. deepseek-coder-v2
+deepseek-coder-v2.part1.rar(4.83GB): https://pixeldrain.com/u/niJ4dFxE
+deepseek-coder-v2.part2.rar(3.71GB): https://pixeldrain.com/u/wbGnWsnh
 
 --- Visual Studio Code ---
 vscode-1.103.2-offline-bundle.zip(2.57GB): https://pixeldrain.com/u/HeEXuAkn
@@ -47,4 +56,5 @@ python-model-loader.zip(300MB): https://pixeldrain.com/u/jUxbCQoN
 --- AI Server ---
 OllamaSetup.exe(1.18GB): https://pixeldrain.com/u/iXmyRAUd
 ollama-linux-amd64.tgz(1.91GB): https://pixeldrain.com/u/d6dEgrWd
+
 
