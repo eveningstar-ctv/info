@@ -66,4 +66,7 @@ ollama-books.zip(38.3MB): https://pixeldrain.com/u/Pu75dLPj
 --- Verdaccio ---
 verdaccio.zip(10.7MB): https://pixeldrain.com/u/2pG4ueCe
 
+--- CoT PDFs ---
+file thumbnail
+cot-pdfs.zip(164MB): https://pixeldrain.com/u/Ab459rxD
 
