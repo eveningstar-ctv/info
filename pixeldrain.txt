@@ -68,8 +68,9 @@ verdaccio.zip(10.7MB): https://pixeldrain.com/u/2pG4ueCe
 
 --- CoT PDFs ---
 file thumbnail
-cot-pdfs.zip(164MB): https://pixeldrain.com/u/Ab459rxD
+cot-pdfs.zip(154MB): https://pixeldrain.com/u/Ab459rxD
 
 --- Gitea ---
 gitea-1.24.6.zip(88.0MB): https://pixeldrain.com/u/bzvsZGSo
+
 
