@@ -60,5 +60,7 @@ ollama-linux-amd64.tgz(1.91GB): https://pixeldrain.com/u/d6dEgrWd
 --- NodeJS ---
 nodejs-v22.zip(234MB): https://pixeldrain.com/u/gZaHHvx8
 
+--- Ollama Books ---
+ollama-books.zip(38.3MB): https://pixeldrain.com/u/Pu75dLPj
 
 
