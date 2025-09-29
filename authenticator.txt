@@ -1,4 +1,6 @@
 otpauth://totp/Cwallet:?secret=NN5F7R65D3NSLVUW3VRMDKWRV4&issuer=Cwallet
+otpauth://totp/Google:genshindev325%40gmail.com?secret=7gzgcmv2u3rzfaarkqqimgh25rfxe5em&issuer=Google
 otpauth://totp/MEXC:?secret=3GJD75VTNUTNCMX6&issuer=MEXC
 otpauth://totp/GitHub:eveningstar-ctv?secret=OVTRIJYLZWTQUY7P&issuer=GitHub
+otpauth://totp/Google:eveningstar.ctv%40gmail.com?secret=pg5s5nzbqfyeomhv2mrsrupuuqgagvh7&issuer=Google
 otpauth://totp/GitHub:genshindev325?secret=3WFDPTP42GFQDTDT&issuer=GitHub
