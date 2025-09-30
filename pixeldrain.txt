@@ -72,7 +72,6 @@ file thumbnail
 cot-pdfs.zip(154MB): https://pixeldrain.com/u/Ab459rxD
 
 --- Gitea ---
-gitea-1.24.6.zip(88.0MB): https://pixeldrain.com/u/bzvsZGSo
-
+gitea-1.24.6.zip(132MB): https://pixeldrain.com/u/tVpniac3
 
 
