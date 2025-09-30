@@ -56,6 +56,7 @@ python-model-loader.zip(300MB): https://pixeldrain.com/u/jUxbCQoN
 --- AI Server ---
 OllamaSetup.exe(1.18GB): https://pixeldrain.com/u/iXmyRAUd
 ollama-linux-amd64.tgz(1.91GB): https://pixeldrain.com/u/d6dEgrWd
+open-webui-0.6.32.zip(1.32GB): https://pixeldrain.com/u/1fpUe1aP
 
 --- NodeJS ---
 nodejs-v22.zip(234MB): https://pixeldrain.com/u/gZaHHvx8
@@ -72,5 +73,6 @@ cot-pdfs.zip(154MB): https://pixeldrain.com/u/Ab459rxD
 
 --- Gitea ---
 gitea-1.24.6.zip(88.0MB): https://pixeldrain.com/u/bzvsZGSo
+
 
 
